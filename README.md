@@ -1,6 +1,6 @@
 # Welcome to Cerulean Shield! (Blue Team Operations)
 
-[Trello Board](https://trello.com/invite/b/kl52w4FJ/ATTId2fa122849dd14d842af0330e66f220bD457209A/cerulean-shield)
+[Trello Project Management Board](https://trello.com/invite/b/kl52w4FJ/ATTId2fa122849dd14d842af0330e66f220bD457209A/cerulean-shield)
 
 [System Topology](https://drive.google.com/file/d/1IEpFYl4alD9fWugN3ltSE0PdWPPih3Cd/view?usp=sharing)
 
