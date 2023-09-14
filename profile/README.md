@@ -10,7 +10,7 @@ Our team has been contracted to serve as the Blue Team for a one-time adversary 
 
 ### About Cerulean Shield
 
-Created in September of 2023, Cerulean Shield is a team of information security professionals from diverse backgrounds. This github repo represents the culmination final project of Code Fellows Cybersecurity Engineering Program.
+Created in September of 2023, Cerulean Shield is a team of information security professionals from across the US. This github repo represents the culmination of the Code Fellows Cybersecurity Engineering Program.
 
 <br>
 
