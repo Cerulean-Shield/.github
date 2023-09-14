@@ -25,7 +25,7 @@ Created in September of 2023, Cerulean Shield is a team of information security 
 
 ### Presentations
 
-[Slideshow Presentation]()
+[Slideshow]()
 
 [Video]()
 
@@ -39,8 +39,8 @@ Created in September of 2023, Cerulean Shield is a team of information security 
 
 ### Repositories
 
-[Documentation]()
+[Documentation](https://github.com/Cerulean-Shield/Documentation)
 
-[Presentations]()
+[Presentation]()
 
-[Scripts]()
+[Security_Findings](https://github.com/Cerulean-Shield/Security_Findings)
