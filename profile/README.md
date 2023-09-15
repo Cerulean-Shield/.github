@@ -4,7 +4,7 @@
 
 ### Problem Domain
 
-Our team has been contracted to serve as the Blue Team for a one-time adversary emulation engagement. The CTO is concerned with the  is concerned with the security posture of the company's cloud systems, after having already experienced sensitive data exposure as a result of misconfiguration of an employee's instance. Our Blue Team is responible for monitoring the defensive systems and making meaningful improvements to threat detection capabilities.
+Our team has been contracted to serve as the Blue Team for a one-time adversary emulation engagement. The CTO is concerned with the  is concerned with the security posture of the company's cloud systems, after having already experienced sensitive data exposure as a result of misconfiguration of an employee's instance. Our Blue Team is responible for monitoring the defensive systems and making meaningful improvements to threat detection capabilities. In order to create a productive learning experience for both teams, the Rules of Engagement prevented Cerulean Shield from responding to incidents as they occured.
 
 <br>
 
@@ -23,11 +23,7 @@ Created in September of 2023, Cerulean Shield is a team of information security 
 
 <br>
 
-### Presentations
-
-[Slideshow]()
-
-[Video]()
+Please feel free to navigate through our repos to see our Documentation 📝, Security Findings 🕵️ :, and Presentation Materials 📺.
 
 <br>
 
@@ -41,6 +37,6 @@ Created in September of 2023, Cerulean Shield is a team of information security 
 
 [Documentation](https://github.com/Cerulean-Shield/Documentation)
 
-[Presentation]()
+[Presentation](https://github.com/Cerulean-Shield/Presentation)
 
 [Security_Findings](https://github.com/Cerulean-Shield/Security_Findings)
