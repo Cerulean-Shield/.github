@@ -23,7 +23,7 @@ Created in September of 2023, Cerulean Shield is a team of information security 
 
 <br>
 
-Please feel free to navigate through our repos to see our Documentation 📝, Security Findings 🕵️ :, and Presentation Materials 📺.
+Please feel free to navigate through our repos to see our Documentation 📝, Security Findings 🕵️ , and Presentation Materials 📺.
 
 <br>
 
